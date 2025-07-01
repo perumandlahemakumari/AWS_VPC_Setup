@@ -11,6 +11,10 @@ This guide explains how to set up a VPC with:
 
 ---
 
+![image](https://github.com/user-attachments/assets/4bda45c4-e7db-45ac-8d40-73130c086643)
+
+---
+
 ## Step 1: Create a VPC
 1. Open **VPC** in AWS Console.
 2. Click **Create VPC** → Choose **VPC and more**.
